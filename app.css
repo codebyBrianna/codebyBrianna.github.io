@@ -1,0 +1,33 @@
+body{
+    background-color: #eae7da
+}
+h2{
+    font-family: 'Allura', cursive; 
+    text-align: left;
+}
+h3{
+    font-family: 'Architects Daughter', cursive;
+    text-align: left;
+}
+p {
+    font-family: 'Architects Daughter', cursive;
+    text-align: left;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+ul{
+    padding: 10px;
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+header{
+    text-align: center;
+    background: url(images/background.jpg);
+    background-size: cover;
+    padding: 10px 0px 0px 0px;
+    font-family: 'Allura', cursive;
+}
