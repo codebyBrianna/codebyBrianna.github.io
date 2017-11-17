@@ -1,5 +1,7 @@
 body{
     background-color: #eae7da
+        color: #ceafc3
+}
 h2{
     font-family: 'Allura', cursive; 
     text-align: left;
@@ -9,6 +11,8 @@ h2{
 h3{
     font-family: 'Architects Daughter', cursive;
     text-align: left;
+    color: #ceafc3
+}
 }
 p {
     font-family: 'Architects Daughter', cursive;
@@ -17,6 +21,8 @@ p {
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
+    color: #ceafc3
+}
 }
 ul{
     padding: 10px;
