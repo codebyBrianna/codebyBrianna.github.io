@@ -1,20 +1,18 @@
 body{
     background-color: #eae7da
-        color: #87bbd3
 }
 h2{
     font-family: 'Allura', cursive; 
     text-align: left;
-    color: #87bbd3
+    
 }
 h3{
     font-family: 'Architects Daughter', cursive;
     text-align: left;
-    color: #ceafc3;
+    color: rgb(206, 175, 195);
 }
 p {
     font-family: 'Architects Daughter', cursive;
-    color: #87bbd3
     text-align: left;
     margin-top: 0px;
     margin-right: 0px;
